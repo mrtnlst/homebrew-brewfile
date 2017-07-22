@@ -10,7 +10,6 @@ brew 'ffmpeg'
 cask 'java'
 cask 'alfred'
 cask 'sublime-text'
-cask 'little-snitch'
 cask 'micro-snitch'
 cask 'liteicon'
 cask 'keybase'
@@ -19,7 +18,6 @@ cask 'macdropany'
 cask 'tripmode'
 cask 'appcleaner'
 cask 'dropbox'
-cask 'carbon-copy-cloner'
 cask 'cd-to'
 cask 'suspicious-package'
 cask 'quitter'
@@ -43,3 +41,4 @@ mas "Tweetbot", id: 557168941
 mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
+
