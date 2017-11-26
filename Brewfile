@@ -6,6 +6,7 @@ brew "exiftool"
 brew "mas"
 brew "screenfetch"
 brew 'ffmpeg'
+brew 'cu'
 
 cask 'java'
 cask 'alfred'
@@ -41,4 +42,7 @@ mas "Tweetbot", id: 557168941
 mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
 mas "Yoink", id: 457622435
+mas "Magnet", id: 441258766
+mas "Deckset", id: 847496013
+mas "Day One", id: 1055511498
 
